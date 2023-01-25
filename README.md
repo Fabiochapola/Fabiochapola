@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Fabiochapola
+- 👋 Hi, I’m @Fabio Chapola
 - 👀 I’m interested in sourcing, videogames and travels.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about the IT World :)
 - 📫 How to reach me ...fabio.chapola@x-team.com
 
 <!---
