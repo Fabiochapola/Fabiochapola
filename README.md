@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabio Chapola
-- 👀 I’m interested in sourcing, videogames and travels.
+- 👀 I’m interested in sourcing, video games and travels.
 - 🌱 I’m currently learning about the IT World :)
 - 📫 How to reach me ...fabio.chapola@x-team.com
 - Apply at [X-Team]([URL](https://jobs.x-team.com/jobs/?utm_source=github)), the most amazing company in the world! 
